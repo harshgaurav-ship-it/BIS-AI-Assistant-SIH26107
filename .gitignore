@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments and local tooling
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Streamlit secrets and local settings
+.streamlit/secrets.toml
+
+# Local data and generated RAG artifacts
+# Raw source files stay out of Git until their redistribution status is verified.
+data/documents/*
+!data/documents/.gitkeep
+data/index/
+data/processed/
+*.faiss
+*.npy
+*.npz
+
+# Local models, logs, and operating-system files
+models/
+logs/
+*.log
+.DS_Store
+Thumbs.db

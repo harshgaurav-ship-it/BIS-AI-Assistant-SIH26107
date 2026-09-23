@@ -1,0 +1,183 @@
+{
+  "corpus_version": "0.1",
+  "last_reviewed": "2026-09-23",
+  "content_policy": "Each entry is a short team-authored paraphrase of a reviewed public BIS source. It is not a copy of an Indian Standard or a substitute for the source page.",
+  "facts": [
+    {
+      "fact_id": "FACT-PC-001",
+      "source_id": "BIS-PC-001",
+      "title": "Product Certification Overview",
+      "source_url": "https://www.bis.gov.in/product-certification/product-certification-overview/?lang=en",
+      "topic": "product_certification",
+      "language": "en",
+      "content": "BIS describes product certification as generally voluntary. For some products, the Central Government can make use of the Standard Mark compulsory through a Quality Control Order. A user must check the current BIS information for the specific product before treating certification as mandatory.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-PC-002",
+      "source_id": "BIS-PC-001",
+      "title": "Product Certification Overview",
+      "source_url": "https://www.bis.gov.in/product-certification/product-certification-overview/?lang=en",
+      "topic": "product_certification",
+      "language": "en",
+      "content": "The BIS product-certification area links to product manuals, schemes of inspection and testing, grouping guidelines, testing facilities, and application information. These product-specific materials should be consulted only for the relevant Indian Standard and product context.",
+      "time_sensitivity": "medium",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-PC-003",
+      "source_id": "BIS-PC-002",
+      "title": "Product Certification Process",
+      "source_url": "https://www.bis.gov.in/product-certification/product-certification-process/?lang=en",
+      "topic": "product_certification_process",
+      "language": "en",
+      "content": "The BIS Product Certification Process page publishes guidance for Scheme I and Scheme IV. The correct route depends on the product and the applicable scheme, so the assistant must link the current BIS process page rather than choosing a route without evidence.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-PC-004",
+      "source_id": "BIS-PC-003",
+      "title": "Product Certification Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+      "topic": "product_certification_process",
+      "language": "en",
+      "content": "BIS product-certification FAQ guidance says applications are submitted online. It also directs applicants to product manuals for product-specific technical guidance. Portal instructions and workflow details should be verified on the current BIS website before applying.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-PC-005",
+      "source_id": "BIS-PC-003",
+      "title": "Product Certification Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+      "topic": "product_certification_process",
+      "language": "en",
+      "content": "For Scheme I guidance, BIS states that a separate application is needed for each product and Indian Standard, even at the same factory location. A separate application is also needed for the same product made at different factory locations. Users should confirm the current guidance with BIS.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-PC-006",
+      "source_id": "BIS-PC-003",
+      "title": "Product Certification Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/product-certification/product-certification-faq/?lang=en",
+      "topic": "laboratory_services",
+      "language": "en",
+      "content": "For the FAQ's referenced product-certification route, BIS says accepted test reports are issued by BIS laboratories or BIS recognized or empanelled laboratories for the relevant product. The user should confirm the laboratory scope and current eligibility in LIMS.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-PSI-001",
+      "source_id": "BIS-PSI-001",
+      "title": "Product Specific Guidelines",
+      "source_url": "https://www.bis.gov.in/product-certification/product-specific-guidelines/?lang=en",
+      "topic": "product_specific_guidance",
+      "language": "en",
+      "content": "BIS publishes a searchable directory of product manuals, schemes of inspection and testing, and grouping guidelines. A linked manual must be reviewed and recorded as its own source before the prototype stores or uses it as RAG evidence.",
+      "time_sensitivity": "medium",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-IS-001",
+      "source_id": "BIS-IS-001",
+      "title": "Know Your Standards: Indian Standard Search",
+      "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails",
+      "topic": "standard_discovery",
+      "language": "en",
+      "content": "The BIS Know Your Standards portal supports searching Indian Standards by standard number or keyword. It can be used to find public metadata such as a standard's number and title. The assistant must not present a search result as proof that a standard applies to a user's product.",
+      "time_sensitivity": "medium",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-LAB-001",
+      "source_id": "BIS-LAB-001",
+      "title": "Laboratory Services Overview",
+      "source_url": "https://www.bis.gov.in/laboratorys/laboratory-services-overview/?lang=en",
+      "topic": "laboratory_services",
+      "language": "en",
+      "content": "BIS laboratory services provide links to laboratory lists, testing facilities, and Indian-Standard-wise testing information. BIS directs users to its LIMS portal for full laboratory, testing-scope, and testing-charge details.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-LAB-002",
+      "source_id": "BIS-LAB-002",
+      "title": "Laboratory Services Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/laboratorys/laboratory-services-overview/laboratory-faq/?lang=en",
+      "topic": "laboratory_lookup",
+      "language": "en",
+      "content": "To locate testing information for a particular Indian Standard, BIS laboratory FAQ guidance directs users to the LIMS portal and its Search by IS Number option. The assistant should provide the LIMS link rather than naming a lab without current evidence.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-LAB-003",
+      "source_id": "BIS-LAB-003",
+      "title": "BIS Laboratory Information Management System",
+      "source_url": "https://lims.bis.gov.in/",
+      "topic": "laboratory_lookup",
+      "language": "en",
+      "content": "The BIS Laboratory Information Management System is the live official portal for finding BIS recognized laboratories and searching laboratory information by Indian Standard. Laboratory recognition, scope, and validity details can change, so a cached result is not a permanent fact.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-HM-001",
+      "source_id": "BIS-HM-001",
+      "title": "Hallmarking Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/hallmarking-overview/hallmarking-faqs/hallmarking-faq/?lang=en",
+      "topic": "hallmarking",
+      "language": "en",
+      "content": "BIS explains hallmarking as the determination and official recording of the proportionate precious-metal content in an article. It presents hallmarking as a mark connected with the stated purity or fineness of a precious-metal article.",
+      "time_sensitivity": "medium",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-HM-002",
+      "source_id": "BIS-HM-001",
+      "title": "Hallmarking Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/hallmarking-overview/hallmarking-faqs/hallmarking-faq/?lang=en",
+      "topic": "hallmarking",
+      "language": "en",
+      "content": "The BIS hallmarking FAQ states that gold and silver are the precious metals covered under hallmarking in India. Users should use current BIS guidance for any question about applicable requirements or markings.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-SX-001",
+      "source_id": "BIS-SX-001",
+      "title": "Scheme-X Certification Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/scheme-x-certification/faq-scheme-x-certification/?lang=en",
+      "topic": "scheme_x_certification",
+      "language": "en",
+      "content": "BIS Scheme-X FAQ guidance says a manufacturer needs separate certification for each manufacturing premises. It also distinguishes licences by product and Indian Standard in the examples provided. The assistant must use this only for a supported Scheme-X context.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-SX-002",
+      "source_id": "BIS-SX-001",
+      "title": "Scheme-X Certification Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/scheme-x-certification/faq-scheme-x-certification/?lang=en",
+      "topic": "scheme_x_certification",
+      "language": "en",
+      "content": "For the Scheme-X application context covered by its FAQ, BIS says an application should not be submitted without a complete technical file. Product-specific technical-file requirements are indicated in the relevant product manual.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    },
+    {
+      "fact_id": "FACT-SX-003",
+      "source_id": "BIS-SX-001",
+      "title": "Scheme-X Certification Frequently Asked Questions",
+      "source_url": "https://www.bis.gov.in/scheme-x-certification/faq-scheme-x-certification/?lang=en",
+      "topic": "scheme_x_certification",
+      "language": "en",
+      "content": "The Scheme-X FAQ directs users to the BIS LIMS portal when they need recognized laboratory information for relevant notified products. The assistant should cite both the Scheme-X source and LIMS when giving this navigation guidance.",
+      "time_sensitivity": "high",
+      "reviewed_at": "2026-09-23"
+    }
+  ]
+}

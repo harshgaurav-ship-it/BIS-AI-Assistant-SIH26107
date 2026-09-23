@@ -1,0 +1,7 @@
+# Web interface
+streamlit==1.64.0
+
+# Local semantic retrieval (CPU only)
+torch==2.14.0
+transformers==5.17.0
+faiss-cpu==1.15.1
