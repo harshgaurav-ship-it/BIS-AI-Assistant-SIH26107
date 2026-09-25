@@ -1,4 +1,4 @@
-    """Streamlit entry point for the BIS Intelligent Assistant."""
+"""Streamlit entry point for the BIS Intelligent Assistant."""
 
 import csv
 import sys
